@@ -1,0 +1,318 @@
+#nav2{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    height: 130px;
+}
+#nav2 > ul > li{
+    display:inherit;
+}
+#nav2 > ul{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    list-style: none;
+    display: inline;
+    margin-left: 1200px;
+}
+#nav2 > ul > li > a > img{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    margin-bottom: 30px;
+}
+#nav2 > img{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    width: 330px;
+    margin-left: 120px;
+}
+header{
+    border-bottom: solid;
+border-bottom-width:50px;
+border-radius: 30% / 20%;
+border-image: url(line1.PNG) 30 round;
+}
+#nav2 > ul > li:nth-child(7) > a > img{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+body > main > img:nth-child(1){
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    margin-left: 131px;
+    margin-top: 50px;
+    width: 400px;
+}
+body > main > img:nth-child(2){
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    margin-left: 1845px;
+    width: 70px;
+}
+body > main > img:nth-child(3){
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    margin-top: 30px;
+    margin-left: 135px;
+    width: 1785px;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    font-size: 40px;
+    margin-left: 135px;
+    margin-right: 104px;
+    margin-top: 58px;
+}
+#right{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    list-style: none;
+    background-image: url(list-bg.png);
+    margin-right: 108px;
+    margin-left: 127px;
+    background-size:900px ,900px;
+backdrop-filter:initial;
+}
+#right > input[type=checkbox]{
+    list-style: none;
+    margin-left: 188px;
+
+    
+}
+#sec1{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: block;
+    background-image: url(list-bg.png);
+    margin-left: 129px;
+    margin-right: 107px;
+}
+#right > center{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    width: 1000px;
+    height: 44px;
+    font-size: 40px;
+    font-style: italic;
+}
+#sec1 > center{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    padding-right: 0px;
+    padding-left: 400px;
+    font-size: 40px;
+    font-style: italic;
+}
+
+
+ul #right{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    list-style: none;
+    background-image: url(list-bg.png);
+    margin-right: 108px;
+    margin-left: 127px;
+    background-size: 900px ,900px;
+    backdrop-filter: initial;
+    height: 300px;
+    
+}
+
+body > main > ul{
+    background-image: url(list-bg.png);
+    background-size: 2000;
+  
+}
+body > main > div{    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    border-top: solid;
+    
+    border-radius: 30% / 20%;
+    border-image: url(line1.PNG) 30 round;
+    margin-top: 80px;
+    border-top-width: 50px;
+}
+body > main > div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    border-top: solid;
+    border-radius: 30% / 20%;
+    border-image: url(line1.PNG) 30 round;
+    margin-top: 80px;
+    border-top-width: 50px;
+    margin-left: 116px;
+    margin-right: 100px;
+
+}
+body > main > div > button{
+    width: 250px;px;
+    height: 80px;
+    float: right;
+    color: -internal-light-dark(black, rgb(146, 35, 35));
+}
+body > main > div > section >img{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+body > main > div > section > p{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    margin-left: 135px;
+    margin-right: 104px;
+    font-size: 30px;
+    margin-top: 15px;
+    font-weight: bolder;
+    margin-bottom: 104px;
+}
+body > main > div >  h3{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    font-size: 40px;
+    display: inline;
+    font-weight: bold;
+    margin-left:120px;
+    margin-top:120px;
+    display: inline;
+}
+body > main > div > button{
+width: 250px;
+height: 80px;
+float: right;
+margin-right: 200px;
+margin-top: 150px;}
+/* header{
+    background-color: rgb(85, 85, 85);
+    margin-bottom: 0px;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.navlua ul {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    display:inline-block;
+    vertical-align:top;
+    margin-top: 55px;
+  }
+  .navlua ul li{
+      display: inline;
+    margin-top: 110mm;  }
+header .navlua ul li a{
+    text-decoration:none;
+    margin-left: 40px;
+    color: #000;
+    
+}
+header img{
+    margin-top: 30px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 40px;}
+
+
+#nav1{
+
+        text-decoration:none;
+        margin-left: 0px;
+    }
+    #nav2 > img{
+        font-size: 20px;
+        font-weight: bold;
+        margin-right: 0px;
+        margin-bottom: 20px;
+        margin-left: 40px;
+        margin-top: 10px;
+    }
+    #imf{
+        
+        margin-top: 20px;
+        height: 400px;
+        margin-left: 40px;
+    
+        width: 95%;
+    } */
