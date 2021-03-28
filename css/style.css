@@ -6,6 +6,7 @@
     font: inherit;
     vertical-align: baseline;
     height: 130px;
+    width: 1918px;
 }
 #nav2 > ul > li{
     display:inherit;
@@ -21,6 +22,17 @@
     display: inline;
     margin-left: 1200px;
 }
+#nav2 > img{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    width: 330px;
+    margin-left: 0px;
+    margin-top: 16px;
+}
 #nav2 > ul > li > a > img{
     list-style: none;
     margin: 0;
@@ -31,22 +43,24 @@
     vertical-align: baseline;
     margin-bottom: 30px;
 }
-#nav2 > img{
+
+header{
     margin: 0;
     padding: 0;
     border: 0;
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
-    width: 330px;
-    margin-left: 120px;
-}
-header{
+    display: block;
     border-bottom: solid;
-border-bottom-width:50px;
-border-radius: 30% / 20%;
-border-image: url(line1.PNG) 30 round;
+    border-bottom-width: 50px;
+    border-radius: 30% / 20%;
+    border-image: url(line1.PNG) 30 round;
+    margin-left: 137px;
+    margin-right: 68px;
+
 }
+
 #nav2 > ul > li:nth-child(7) > a > img{
     list-style: none;
     margin: 0;
@@ -241,22 +255,31 @@ body > main > div > section > p{
     margin-left: 135px;
     margin-right: 104px;
     font-size: 30px;
-    margin-top: 15px;
     font-weight: bolder;
     margin-bottom: 104px;
+    margin-top: 0px;;
 }
-body > main > div >  h3{
+body > main > div > section>section> h3{
     margin: 0;
     padding: 0;
     border: 0;
     font: inherit;
     vertical-align: baseline;
     font-size: 40px;
-    display: inline;
     font-weight: bold;
-    margin-left:120px;
-    margin-top:120px;
     display: inline;
+    margin-left: 10px;
+    text-align: center;
+    margin-top: 40px;
+}
+body > main > div >section> section{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-flex;
 }
 body > main > div > button{
 width: 250px;
@@ -316,3 +339,158 @@ header img{
     
         width: 95%;
     } */
+
+    body > main > div > section >section> img{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+        margin-left: 50px;
+        margin-top: 0px;
+        width: 120px;
+        display: inline;
+    }    margin: 0;
+    body > main > div > section > p{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font: inherit;
+        vertical-align: baseline;
+        margin-right: 104px;
+        font-size: 30px;
+        font-weight: bolder;
+        margin-bottom: 104px;
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+
+    body > main > div > section > p{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font: inherit;
+        vertical-align: baseline;
+        margin-right: 104px;
+        font-size: 30px;
+        font-weight: bolder;
+        margin-bottom: 104px;
+        width: 1000px;
+        margin-top: 0px;
+        margin-left: 175px;}
+        body > main > div > section > section{
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font-size: 100%;
+            font: inherit;
+            vertical-align: baseline;
+            display: inline-flex;
+            height: 99px;
+            margin-left: 46px;
+            margin-top: 18px;
+        }
+        body > main > div > button{
+            float: right;
+            margin-right: 200px;
+            width: 394px;
+            height: 120px;
+            font-size: 40px;
+            background-color: rgb(173, 74, 74);
+            margin-bottom: 10px;
+            margin-top: 79px;
+        }
+       
+    
+    
+       
+
+        #footerpic{
+            margin: 0;
+            padding: 0;
+            font-size: 100%;
+            font: inherit;
+            vertical-align: baseline;
+            height: 32px;
+            margin-bottom: 0px;
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            z-index: + 999;
+            margin-top: 0px;
+            margin-left: 26px;
+        }
+        #st2{
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font: inherit;
+            vertical-align: baseline;
+            font-size: 40px;
+            margin-right: 104px;
+            margin-top: 58px;
+            margin-left: 855px;
+        }
+        #st2{
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font: inherit;
+            vertical-align: baseline;
+            font-size: 40px;
+            margin-left: 0px;
+            margin-right: 0px;
+            margin-top: 0px;
+        }
+        body > footer{
+            margin: 0;
+            padding: 0;
+            font-size: 100%;
+            font: inherit
+            display: block;
+            margin-left: 120px;
+            margin-right: 101px;
+            height: 200px;
+            border-top: solid;
+            border-top-width: 0px;
+        }
+        
+#right > center > input[type=checkbox]{
+    list-style: none;
+    width: 20px;
+    border-top-width: 68px;
+    height: 20px;}
+
+	button:checked{
+		text-decoration:line-through;
+        text-decoration-color: black;
+	}
+	html{
+	
+    width: 2000px;}
+
+    body > footer > center{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+        margin-top: 79px;
+    }
+
+
+    body > footer > section > img{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+        margin-left: 1000px;
+        position: absolute;
+        z-index: +1;
+        top: 3026px;
+    }
+	

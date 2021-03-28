@@ -42,13 +42,15 @@ table {
 	border-spacing: 0;
 }
 
-:checked
-#right > center > input[type=checkbox]{
-    list-style: none;
-    width: 20px;
-    border-top-width: 68px;
-    height: 20px;}
-
-	button:checked{
-		text-decoration: line-through;
-	}
+body > footer > section > p{
+	margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    font-size: 40px;
+    margin-top: 58px;
+    height: 1px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
